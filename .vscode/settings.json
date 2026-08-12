@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "ecomerce",
+            "database": "${workspaceFolder:e-commerce sql}/ecommerce.db"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
